@@ -1,0 +1,36 @@
+er	infinitif
+ant	participe présent
+é	participe passé masculin singulier
+ée	participe passé féminin singulier
+és	participe passé masculin pluriel
+ées	participe passé féminin pluriel
+e	présent 1ère personne singulier
+es	présent 2ème personne singulier
+e	présent 3ème personne singulier
+ons	présent 1ère personne pluriel
+ez	présent 2ème personne pluriel
+ent	présent 3ème personne pluriel
+ais	imparfait 1ère personne singulier
+ais	imparfait 2ème personne singulier
+ait	imparfait 3ème personne singulier
+ions	imparfait 1ère personne pluriel
+iez	imparfait 2ème personne pluriel
+aient	imparfait 3ème personne pluriel
+ai	passé simple 1ère personne singulier
+as	passé simple 2ème personne singulier
+a	passé simpler 3ème personne singulier
+âmes	passé simple 1ère personne pluriel
+âtes	passé simple 2ème personne pluriel
+èrent	passé simple 3ème personne pluriel
+erai	futur 1ère personne singulier
+eras	futur 2ème personne singulier
+era	futur 3ème personne singulier
+erons	futur 1ère personne pluriel
+erez	futur 2ème personne pluriel
+eront	futur 3ème personne pluriel
+erais	conditionnel 1ère personne singulier
+erais	conditionnel 2ème personne singulier
+erait	conditionnel 3ème personne singulier
+erions	conditionnel 1ère personne pluriel
+eriez	conditionnel 2ème personne pluriel
+eraient	conditionnel 3ème personne pluriel
