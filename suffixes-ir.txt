@@ -1,0 +1,36 @@
+ir	infinitif
+issant	participe présent
+i	participe passé masculin singulier
+ie	participe passé féminin singulier
+is	participe passé masculin pluriel
+ies	participe passé féminin pluriel
+is	présent 1ère personne singulier
+is	présent 2ème personne singulier
+it	présent 3ème personne singulier
+issons	présent 1ère personne pluriel
+issez	présent 2ème personne pluriel
+issent	présent 3ème personne pluriel
+issais	imparfait 1ère personne singulier
+issais	imparfait 2ème personne singulier
+issait	imparfait 3ème personne singulier
+issions	imparfait 1ère personne pluriel
+issiez	imparfait 2ème personne pluriel
+issaient	imparfait 3ème personne pluriel
+is	passé simple 1ère personne singulier
+is	passé simple 2ème personne singulier
+it	passé simpler 3ème personne singulier
+îmes	passé simple 1ère personne pluriel
+îtes	passé simple 2ème personne pluriel
+irent	passé simple 3ème personne pluriel
+irai	futur 1ère personne singulier
+iras	futur 2ème personne singulier
+ira	futur 3ème personne singulier
+irons	futur 1ère personne pluriel
+irez	futur 2ème personne pluriel
+iront	futur 3ème personne pluriel
+irais	conditionnel 1ère personne singulier
+irais	conditionnel 2ème personne singulier
+irait	conditionnel 3ème personne singulier
+irions	conditionnel 1ère personne pluriel
+iriez	conditionnel 2ème personne pluriel
+iraient	conditionnel 3ème personne pluriel
